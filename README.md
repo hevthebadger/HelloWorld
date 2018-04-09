@@ -1,2 +1,4 @@
 # HelloWorld
-Learnign exercise
+Learning exercise
+
+Further line added
